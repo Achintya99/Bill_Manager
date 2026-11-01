@@ -1,0 +1,14 @@
+{
+  "name": "bill-manager",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "npm run test --workspaces --if-present",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "server": "npm run dev -w server",
+    "mobile": "npm run start -w mobile"
+  }
+}

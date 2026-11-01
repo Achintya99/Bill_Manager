@@ -1,0 +1,18 @@
+{
+  "store": "Desi Gourmet",
+  "store_address": "Calle de Ricardo Ortiz, 46",
+  "date": "2026-10-30",
+  "time": "12:46",
+  "total": 20.59,
+  "currency": "EUR",
+  "language": "es",
+  "payment_method": "card",
+  "items": [
+    { "name_original": "Judias Mungo Verdes (Vigna radiata) | Whole Green Mung 1kg Schani", "name_en": "Whole green mung beans 1 kg (Schani)", "quantity": 1, "unit": "unit", "unit_price": null, "price": 4.90, "uncertain": false },
+    { "name_original": "Pasta de jengibre y ajo | Ginger Garlic Paste 300g TRS", "name_en": "Ginger garlic paste 300 g (TRS)", "quantity": 1, "unit": "unit", "unit_price": null, "price": 3.99, "uncertain": false },
+    { "name_original": "Incienso | Incense Stick Mysore Sandalwood (Masala Agarbatti) 15g Namaste India", "name_en": "Incense sticks, Mysore sandalwood 15 g (Namaste India)", "quantity": 1, "unit": "unit", "unit_price": null, "price": 1.00, "uncertain": false },
+    { "name_original": "Aceite de lampara para Pooja | Deepam Diya Oil for Pooja 400ml KRG", "name_en": "Deepam diya lamp oil for pooja 400 ml (KRG)", "quantity": 2, "unit": "unit", "unit_price": 3.90, "price": 7.80, "uncertain": false },
+    { "name_original": "Especias para Arroz | Biryani Masala 100g Aachi", "name_en": "Biryani masala spice mix 100 g (Aachi)", "quantity": 1, "unit": "unit", "unit_price": null, "price": 2.90, "uncertain": false }
+  ],
+  "notes": null
+}

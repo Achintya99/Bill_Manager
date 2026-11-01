@@ -1,0 +1,28 @@
+{
+  "store": "Mercadona",
+  "store_address": "C/ Fuencarral, 77, 28004 Madrid",
+  "date": "2026-10-30",
+  "time": "13:59",
+  "total": 20.08,
+  "currency": "EUR",
+  "language": "es",
+  "payment_method": "card",
+  "items": [
+    { "name_original": "HIGIENICO DOBLE ROLL", "name_en": "Toilet paper, double roll", "quantity": 1, "unit": "unit", "unit_price": null, "price": 2.40, "uncertain": false },
+    { "name_original": "LECHE ENTERA", "name_en": "Whole milk", "quantity": 1, "unit": "unit", "unit_price": null, "price": 0.96, "uncertain": false },
+    { "name_original": "INF TE VERDE", "name_en": "Green tea (infusion bags)", "quantity": 1, "unit": "unit", "unit_price": null, "price": 0.75, "uncertain": false },
+    { "name_original": "HUMMUS PIMIENTO", "name_en": "Red pepper hummus", "quantity": 1, "unit": "unit", "unit_price": null, "price": 1.45, "uncertain": false },
+    { "name_original": "TORTILLAS MEXICANAS", "name_en": "Mexican tortillas (wraps)", "quantity": 1, "unit": "unit", "unit_price": null, "price": 1.15, "uncertain": false },
+    { "name_original": "CAFE LIGHT S/LAC", "name_en": "Light coffee, lactose-free", "quantity": 1, "unit": "unit", "unit_price": null, "price": 0.85, "uncertain": true },
+    { "name_original": "CEBOLLA TUBO", "name_en": "Onion (tube pack)", "quantity": 1, "unit": "unit", "unit_price": null, "price": 1.50, "uncertain": true },
+    { "name_original": "NAPO CHOCO 35%", "name_en": "Chocolate napolitana pastries", "quantity": 2, "unit": "unit", "unit_price": 0.95, "price": 1.90, "uncertain": false },
+    { "name_original": "AJO SECO 250 G", "name_en": "Dry garlic bulbs 250 g", "quantity": 1, "unit": "unit", "unit_price": null, "price": 1.85, "uncertain": false },
+    { "name_original": "QUESO LONCHAS MOZZAR", "name_en": "Sliced mozzarella cheese", "quantity": 1, "unit": "unit", "unit_price": null, "price": 1.80, "uncertain": false },
+    { "name_original": "GRIEGO NATURAL P-6", "name_en": "Plain Greek yogurt, 6-pack", "quantity": 1, "unit": "unit", "unit_price": null, "price": 1.45, "uncertain": false },
+    { "name_original": "SPRAY ESSENCE", "name_en": "Air freshener spray", "quantity": 1, "unit": "unit", "unit_price": null, "price": 1.20, "uncertain": true },
+    { "name_original": "ENS.IV ESTACIONES", "name_en": "Four seasons salad (bagged)", "quantity": 1, "unit": "unit", "unit_price": null, "price": 0.77, "uncertain": false },
+    { "name_original": "PATATA", "name_en": "Potatoes", "quantity": 0.722, "unit": "kg", "unit_price": 1.90, "price": 1.37, "uncertain": false },
+    { "name_original": "PEPINO", "name_en": "Cucumber", "quantity": 0.432, "unit": "kg", "unit_price": 1.57, "price": 0.68, "uncertain": false }
+  ],
+  "notes": null
+}

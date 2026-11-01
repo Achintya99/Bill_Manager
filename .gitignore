@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+# Real receipt photos stay local (personal data); see docs/extraction-test.md
+samples/
+.DS_Store

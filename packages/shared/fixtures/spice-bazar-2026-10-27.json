@@ -1,0 +1,16 @@
+{
+  "store": "Spice Bazar",
+  "store_address": "Lavapiés, 49, 28012 Madrid",
+  "date": "2026-10-27",
+  "time": "18:47",
+  "total": 10.75,
+  "currency": "EUR",
+  "language": "es",
+  "payment_method": "cash",
+  "items": [
+    { "name_original": "PRECIO DIRECTO", "name_en": "Unnamed item (price entered at till)", "quantity": 1, "unit": "unit", "unit_price": 2.50, "price": 2.50, "uncertain": true },
+    { "name_original": "PRECIO DIRECTO", "name_en": "Unnamed item (price entered at till)", "quantity": 1, "unit": "unit", "unit_price": 3.50, "price": 3.50, "uncertain": true },
+    { "name_original": "PRECIO DIRECTO", "name_en": "Unnamed item (price entered at till)", "quantity": 1, "unit": "unit", "unit_price": 4.75, "price": 4.75, "uncertain": true }
+  ],
+  "notes": "The receipt does not name the products (\"PRECIO DIRECTO\" means the price was typed in at the till). Add the product names yourself."
+}
