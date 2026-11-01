@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Receipts",
+    "slug": "bill-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.billmanager.receipts"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.billmanager.receipts"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "The app uses the camera to photograph your receipts.",
+          "photosPermission": "The app reads receipt photos you choose from your library.",
+          "microphonePermission": false
+        }
+      ]
+    ],
+    "scheme": "billmanager"
+  }
+}
